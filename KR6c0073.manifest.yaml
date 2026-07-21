@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0073_000.yaml, hash: 'sha256:9635de46f00de80d7914c2b4af24c371233e570893ee08251439aac9b9b49cab'}
+  - {seq: 0, filename: KR6c0073_000.yaml, hash: 'sha256:f835ae1c24e35a1e445f7b6c07f182557795ad43272681441c127081c03dc996'}
   - {seq: 1, filename: KR6c0073_001.yaml, hash: 'sha256:9aa931b80dc4d3ff2ff3d70401a4498f05fa0cdb13041790b9b04cd15b9890d6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0073_000.markers.yaml, hash: 'sha256:bd3251a19727ea6c4607d065a253acbac7ac173f52cc546df2b880e7508463db'}
+  - {seq: 0, role: markers, filename: assets/KR6c0073_000.markers.yaml, hash: 'sha256:0f19dbf5767ba4c943872e846aac48c1de43a833d15ad5378fe744c1d9eade9a'}
   - {seq: 1, role: markers, filename: assets/KR6c0073_001.markers.yaml, hash: 'sha256:3ae64626cfd8a92e5e3fe029bcf007b34e425597ba397064585ab198fe5928ac'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0073_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 485-A 金剛經如是解自述
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0073_X_000-mulu-2
     span:
-    - front
+    - body
     - 636
     - 636
   label: No. 485-B 金剛經如是解序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0073_X_000-mulu-3
     span:
-    - front
+    - body
     - 1343
     - 1343
   label: No. 485-C 金剛如是解序
@@ -477,7 +477,7 @@ table_of_contents:
   label: No. 485-F 䟦
   type: mulu
   level: 1
-hash: sha256:225c3bf6f04413c6a5f65aa32827d8b67f3e7f4960e3b23dd0ba25f4f737ecf5
+hash: sha256:59deeea3d566cf4141822cd86a5f5dda594725d038a178612ba80d956a5f0a39
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
